@@ -9,6 +9,8 @@
     pkgs.python311Packages.numpy
     pkgs.python311Packages.matplotlib
     pkgs.python311Packages.pandas
+    # pkgs.python311Packages.torch # Pytorch
+    # pkgs.python311Packages.tensorflow # tensorflow
   ];
 
   # https://devenv.sh/scripts/
