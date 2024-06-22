@@ -14,3 +14,7 @@
 6. Enjoy your python virtual environment. 
 7. For more information on devenv visit [Devenv Docs](https://devenv.sh/getting-started/)
 
+# Copying Over to another project 
+1. Run `devenv init` in the new project folder. 
+2. Copy over the devenv.nix, devenv.yaml, and requirements.txt.
+
